@@ -12,7 +12,7 @@ title                    : "Gaulee"
 title_separator          : "-"
 name                     : &name "Jiaxin Li"
 description              : &description "Beijing Institute of Technology"
-url                      : https://gauleejx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gauleejx.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gauleejx.github.io"
 
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "ljx.jpg"
   name             : "Jiaxin Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Haha!"
+  pronouns         : "he/his" # example: "she/her"  
+  # bio              : ""
   location         : "Located at Beijing"
-  #employer         : "Red Brick University"
+  employer         : "Beijing Institute of Technology"
   #uri              : # URL
   email            : "Gaulee@outlook.com" 
 
