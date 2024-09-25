@@ -21,14 +21,14 @@ repository               : "gauleejx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ljx.jpg"
+  avatar           : "ljx_cartoon.png"
   name             : "Jiaxin Li"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   # bio              : ""
   location         : "Located at Beijing"
   employer         : "Beijing Institute of Technology"
   #uri              : # URL
-  email            : "Gaulee@outlook.com" 
+  email            : "GauleeJX@outlook.com" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
