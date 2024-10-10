@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "I'm Gaulee"
+title: "Jiaxin Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Personal description
+I'm a Ph.D. student at [BIT](https://english.bit.edu.cn/)'s  [Visual Perception & Human-computer Interaction Lab (PI Lab)](https://liangwei-bit.github.io/web/people), under the supervision of Prof. [Wei Liang](https://liangwei-bit.github.io/web/). Prior to this, I recieved my B.S. degree at [NJUPT](https://www.njupt.edu.cn/en/). 
+My research focuses on Embodied Navigation and SLAM.
 
-Research 
-
-Teachers
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
