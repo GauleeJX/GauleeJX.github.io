@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "李佳鑫"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Jiaxin Li"
 description              : &description "Beijing Institute of Technology"
 url                      : https://gauleejx.github.io 
